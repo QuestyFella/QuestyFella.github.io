@@ -18,6 +18,10 @@ body {
     color: #f00;
     text-shadow: 0px 0px 10px #f00;
   }
+  .shine{
+    color: #f00;
+    text-shadow: 0px 0px 10px #f00;
+  }
   
   span {
     display: inline-block;
