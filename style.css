@@ -20,7 +20,7 @@ body {
   }
   .shine{color: #f00;text-shadow: 0px 0px 10px #f00;}
   
-  span {
+  span{
     display: inline-block;
     padding: 0 10px;
   }
